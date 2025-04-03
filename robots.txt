@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ai-academy.live/sitemap.xml 
